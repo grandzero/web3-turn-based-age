@@ -1,0 +1,17 @@
+{
+  "name": "epic-game",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/grandzero/web3-turn-based-age.git",
+  "author": "bayramutkuhc <bayram.uzunlar@hackandcraft.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
+    "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@openzeppelin/contracts": "^4.3.2",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.5.1",
+    "hardhat": "^2.6.7"
+  }
+}
